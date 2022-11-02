@@ -6,3 +6,4 @@
 - Erol branch'i yeni ekleme
 >>>>>>> erol
 - master branch'i yeni ekleme
+- Erol branch'i yeni ekleme
