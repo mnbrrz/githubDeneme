@@ -1,2 +1,8 @@
 - Git yeni deneme 
+<<<<<<< HEAD
 - ikinci deneme 
+=======
+- Git Github Erol direnci
+- Erol branch'i yeni ekleme
+>>>>>>> erol
+- master branch'i yeni ekleme
